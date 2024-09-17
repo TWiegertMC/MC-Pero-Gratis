@@ -1,4 +1,0 @@
-1.21.1.03 arm64-v8a: https://www.dropbox.com/scl/fi/83gez8rp3v6ooarwsagx6/1-21-1-03-arm64-v8a.apk?rlkey=vad0jnb2lc8ny2fv5cgcxnes0&st=nhkvnpi6&dl=0
-1.21.1.03 armeabi-v7a: https://www.dropbox.com/scl/fi/b3hjyicr2ooimclkvrq78/1-21-1-03-armeabi-v7a.apk?rlkey=ya6w53i0rtt7iqrmjk1xnpuq1&st=gtb189fx&dl=0
-1.21.0.03 arm64-v8a: https://www.dropbox.com/scl/fi/ug58vtq4hs3mli9nx0a5p/1-21-0-03-arm64-v8a.apk?rlkey=bp175xrcdvi5wy46757pvl0nl&st=2x0qatub&dl=0
-1.21.0.03 armeabi-v7a: https://www.dropbox.com/scl/fi/i8pojoqp48vnfpht4qqg5/1-21-0-03-armeabi-v7a.apk?rlkey=ozbo0op395y27hhbb47n5z4c4&st=i5nmpquk&dl=0
